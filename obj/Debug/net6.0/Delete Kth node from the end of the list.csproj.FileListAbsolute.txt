@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\bin\Debug\net6.0\Delete Kth node from the end of the list.exe
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\bin\Debug\net6.0\Delete Kth node from the end of the list.deps.json
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\bin\Debug\net6.0\Delete Kth node from the end of the list.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\bin\Debug\net6.0\Delete Kth node from the end of the list.dll
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\bin\Debug\net6.0\ref\Delete Kth node from the end of the list.dll
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\bin\Debug\net6.0\Delete Kth node from the end of the list.pdb
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\obj\Debug\net6.0\Delete Kth node from the end of the list.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\obj\Debug\net6.0\Delete Kth node from the end of the list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\obj\Debug\net6.0\Delete Kth node from the end of the list.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\obj\Debug\net6.0\Delete Kth node from the end of the list.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\obj\Debug\net6.0\Delete Kth node from the end of the list.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\obj\Debug\net6.0\Delete Kth node from the end of the list.dll
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\obj\Debug\net6.0\ref\Delete Kth node from the end of the list.dll
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\obj\Debug\net6.0\Delete Kth node from the end of the list.pdb
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\obj\Debug\net6.0\Delete Kth node from the end of the list.genruntimeconfig.cache

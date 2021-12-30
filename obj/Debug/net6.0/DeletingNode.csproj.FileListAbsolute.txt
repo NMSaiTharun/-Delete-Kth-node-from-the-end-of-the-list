@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\bin\Debug\net6.0\DeletingNode.exe
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\bin\Debug\net6.0\DeletingNode.deps.json
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\bin\Debug\net6.0\DeletingNode.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\bin\Debug\net6.0\DeletingNode.dll
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\bin\Debug\net6.0\ref\DeletingNode.dll
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\bin\Debug\net6.0\DeletingNode.pdb
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\obj\Debug\net6.0\DeletingNode.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\obj\Debug\net6.0\DeletingNode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\obj\Debug\net6.0\DeletingNode.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\obj\Debug\net6.0\DeletingNode.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\obj\Debug\net6.0\DeletingNode.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\obj\Debug\net6.0\DeletingNode.dll
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\obj\Debug\net6.0\ref\DeletingNode.dll
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\obj\Debug\net6.0\DeletingNode.pdb
+C:\Users\Lenovo\Desktop\Delete Kth node from the end of the list\obj\Debug\net6.0\DeletingNode.genruntimeconfig.cache
